@@ -1,0 +1,6 @@
+@import "https://classic.yarnpkg.com/en/package/normalize.css";
+
+html, body {
+	width: 100%;
+	height: 100%;
+}
